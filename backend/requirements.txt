@@ -1,0 +1,9 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+pypdf>=5.0
+faiss-cpu>=1.8
+numpy>=1.26
+fastembed>=0.4
+openai>=1.50
+python-dotenv>=1.0
