@@ -9,7 +9,7 @@
 
 An AI-powered support assistant that answers bus ticket questions using only the official policy document. It applies Retrieval-Augmented Generation (RAG) so every answer is grounded in the policy text, with a page-level source citation, instead of relying on the language model's general knowledge.
 
-**Live demo:** https://red-line-express-git-deploy-swetha-k.vercel.app/
+**Live demo:**  [https://redline-express-frontend.onrender.com/](url)
 
 > RedLine Express, its policy and its contact details are fictional and exist for demonstration purposes only.
 
